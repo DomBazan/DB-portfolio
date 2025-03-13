@@ -98,7 +98,7 @@ input:focus, textarea:focus {
 }
 
 .orange {
-  color: #f06449 !important;
+  color: #f13009 !important;
 }
 
 .link__hover-effect {
@@ -149,8 +149,7 @@ nav,
 .dark-theme .section__sub-title,
 .dark-theme .nav__link--anchor,
 .dark-theme .fa-adjust,
-.dark-theme .header__para
-{
+.dark-theme .header__para {
   color: white;
 }
 .dark-theme section {
